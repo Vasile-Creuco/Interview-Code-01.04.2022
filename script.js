@@ -18,6 +18,5 @@ function compareArrays() {
   document.getElementById("message").innerText = "won";
   } else {
     document.getElementById("message").innerText = "lost";
-
   }
 }
